@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DBIT</string>
+    <string name="button">Button</string>
+    <string name="name">DBIT</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
